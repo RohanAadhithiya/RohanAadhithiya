@@ -1,61 +1,106 @@
-# 👋 Hi there! I'm Rohan Aadhithiya
-
-Welcome to my GitHub profile! I'm an enthusiastic and dedicated tech learner currently pursuing my B.Tech in Information Technology.
+<h1 align="center">Hi, I'm Rohan Aadhithiya</h1>
+<p align="center"><strong>Aspiring IT Professional | Passionate Developer | System Analyst Enthusiast</strong></p>
 
 ---
+
+<!-- Career Objective -->
+<div style="background-color:#f0f8ff; padding: 10px; border-radius: 8px;">
+
+## 🎯 Career Objective
+
+To secure a challenging position in an organization to expand my learnings,  
+knowledge, and skills. A highly organized and hard-working individual  
+looking for a responsible position to gain practical experience.
+
+</div>
+
+---
+
+<!-- Education -->
+<div style="background-color:#e6f2ff; padding: 10px; border-radius: 8px;">
 
 ## 🎓 Education
 
-**B.Tech Information Technology**  
-[Bannari Amman Institute of Technology](https://www.bitsathy.ac.in) (2022 - 2026)  
-Sathyamangalam, Tamil Nadu, India
+| **Degree**     | B.Tech – Information Technology |
+|----------------|----------------------------------|
+| **Institution**| [Bannari Amman Institute of Technology](https://www.bitsathy.ac.in) |
+| **Duration**   | 2022 – 2026                     |
+
+</div>
 
 ---
 
-## 💡 About Me
+<!-- Skills -->
+<div style="background-color:#f9f9f9; padding: 10px; border-radius: 8px;">
 
-- 💻 Passionate about building impactful software solutions
-- 🚀 Actively learning Full Stack Development and exploring AI-based applications
-- 🤝 Looking to collaborate on open-source and meaningful tech projects
-- 📬 You can reach me at: *[your.email@example.com]* (replace with your actual email)
+## 💡 Skills
+
+- Java  
+- C  
+- SQL  
+- Web Technologies
+
+</div>
+
+---
+
+<!-- Tools -->
+<div style="background-color:#f9f0f5; padding: 10px; border-radius: 8px;">
+
+## 🛠️ Tools & Technologies
+
+- GitHub  
+- Visual Studio Code  
+- ServiceNow  
+
+</div>
 
 ---
 
-## 🛠️ Skills
-
-- Programming Languages: **Java**, **C**, **SQL**
-- Tools & Technologies: VS Code, Git, GitHub, MongoDB, React (in progress)
-- Currently exploring: Node.js, Firebase, and REST APIs
-
----
+<!-- Areas of Interest -->
+<div style="background-color:#f0fff0; padding: 10px; border-radius: 8px;">
 
 ## 🔍 Areas of Interest
 
-- 📱 **App Development**  
-- 🧠 **System Analysis & Design**
+- Application Development  
+- System Analysis and Design  
+- UI/UX Design
+
+</div>
 
 ---
+
+<!-- Projects -->
+<div style="background-color:#fff8dc; padding: 10px; border-radius: 8px;">
 
 ## 💼 Projects
 
-| Project Name       | Description                                  |
-|--------------------|----------------------------------------------|
-| 🤖 **AI Chatbot**        | Built a chatbot using React & OpenAI API for interactive Q&A |
-| 📰 **Fake News Detector** | Detects misinformation using machine learning techniques |
+| Project Name          | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **AI Chatbot**        | Developed a chatbot using React and OpenAI API for interactive Q&A          |
+| **Fake News Detector**| Implemented a machine learning model to detect misinformation                |
 
-> More projects coming soon... Stay tuned!
-
----
-
-## 📈 GitHub Stats
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanaadhithiya&show_icons=true&theme=radical)
+</div>
 
 ---
 
-## ⚡ Fun Fact
+<!-- Leetcode Stats -->
+<div style="background-color:#f0ffff; padding: 10px; border-radius: 8px;">
 
-I believe that **"Learning never stops"** and I’m always curious about how things work behind the scenes – be it systems, apps, or logic.
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rohanaadhithiya?theme=dark&font=Roboto&ext=activity)](https://leetcode.com/rohanaadhithiya)
+
+</div>
 
 ---
 
+<!-- Connect -->
+<div style="background-color:#f5f5f5; padding: 10px; border-radius: 8px;">
+
+## 📫 Let's Connect
+
+- 📧 Email: rohanaadhithiya.it22@bitsathy.ac.in  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/rohan-aadhithiya-b-8b57b2322/)
+
+</div>
